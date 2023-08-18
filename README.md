@@ -28,7 +28,7 @@ The dataset used to create this dashboard is present in this repository
 
 ## Screenshots
 
-![Uploading Screenshot (228).png…]()
+![Screenshot (228)](https://github.com/Paragg99/Data_Visualization_Using_Tableau-Netflix_data/assets/91948118/2b1bf1b4-6e51-4eae-8bb5-b909da80d651)
 
 
 ## Notes
