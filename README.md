@@ -3,6 +3,13 @@
 This Tableau dashboard project presents visualizations and interactive features based on Netflix titles data. It includes bar charts, bubble charts, line charts, and geographical plots. A dynamic filter lets users choose between movies and web series. Furthermore, users can select a title to access detailed information.
 
 The dataset used to create this dashboard is present in this repository
+
+
+## Screenshot
+
+![Screenshot (228)](https://github.com/Paragg99/Data_Visualization_Using_Tableau-Netflix_data/assets/91948118/2b1bf1b4-6e51-4eae-8bb5-b909da80d651)
+
+
 ## Features
 
 - Bar Chart: Displays distribution of movies and web series.
@@ -25,10 +32,6 @@ The dataset used to create this dashboard is present in this repository
    - Scroll through the filter to select either a movie or a web series.
    - Click on the desired title in the visualizations.
    - Observe detailed information in the detail window.
-
-## Screenshots
-
-![Screenshot (228)](https://github.com/Paragg99/Data_Visualization_Using_Tableau-Netflix_data/assets/91948118/2b1bf1b4-6e51-4eae-8bb5-b909da80d651)
 
 
 ## Notes
